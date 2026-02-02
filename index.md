@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="/images/profile.jpg" width="220" alt="Jyotiradityasinh Chauhan">
+  <img src="/images/profile.jpeg" width="220" alt="Jyotiradityasinh Chauhan">
 </p>
 
 # Jyotiradityasinh Chauhan
