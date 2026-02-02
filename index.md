@@ -15,6 +15,6 @@ Bachelor of Science in Computer Science
 Expected Graduation: May 2027
 
 ## Links
-- [Department of Computer Science – UH](https://www.cs.uh.edu)
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
-- [Resume (PDF)](/files/Jyotiradityasinh_Chauhan_Resume.pdf)
+- [Department of Computer Science – UH]([https://www.cs.uh.edu](https://www.cs.uh.edu))
+- [LinkedIn](https://www.linkedin.com/in/jyotiradityasinh-chauhan/)
+- [Resume (PDF)](/files/JyotiradityaResume.pdf)
